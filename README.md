@@ -8,14 +8,9 @@
 <br>
 <img src="./assets/Captura de tela servicos.png">
 <br>
-<table>
-  <ul>
-    <li><img src="./assets/Captura de tela mobile1.png"></li>
-  </ul>
-  <ul>
-    <li><img src="./assets/Captura de tela mobile2.png"></li>
-  </ul>
-  <ul>
-    <li><img src="./assets/Captura de tela mobile3.png"></li>
-  </ul>  
-</table>
+
+<img src="./assets/Captura de tela mobile1.png">
+<img src="./assets/Captura de tela mobile2.png">
+<img src="./assets/Captura de tela mobile3.png">
+
+
